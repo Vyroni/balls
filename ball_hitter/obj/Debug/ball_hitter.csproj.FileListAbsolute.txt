@@ -1,0 +1,8 @@
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\bin\Debug\ball_hitter.exe.config
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\bin\Debug\ball_hitter.exe
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\bin\Debug\ball_hitter.pdb
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\obj\Debug\ball_hitter.Form1.resources
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\obj\Debug\ball_hitter.Properties.Resources.resources
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\obj\Debug\ball_hitter.csproj.GenerateResource.Cache
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\obj\Debug\ball_hitter.exe
+c:\users\zveris\documents\visual studio 2015\Projects\ball_hitter\ball_hitter\obj\Debug\ball_hitter.pdb
